@@ -65,5 +65,8 @@ The model with the highest accuracy score was selected as the final model and us
 
 ---
 
-## 🎯 Conclusion
-This project demonstrates how machine learning can be effectively used in healthcare to assist in early cancer detection by analyzing medical data and building predictive models.
+## 🚀 Conclusion
+
+This project demonstrates how machine learning can be effectively applied in healthcare to support early cancer detection by analyzing tumor-related medical data and building predictive models.
+Multiple classification algorithms were implemented and evaluated using performance metrics such as accuracy, precision, and recall. Among the models, **Logistic Regression** achieved the highest performance and was identified as the top-performing model for this task.
+The results highlight the potential of machine learning techniques in assisting medical professionals with accurate and efficient diagnosis.
