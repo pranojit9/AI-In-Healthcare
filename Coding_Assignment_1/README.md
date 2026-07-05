@@ -1,4 +1,4 @@
-# AI in Healthcare: Breast Cancer Classification using Machine Learning
+# Breast Cancer Classification using Machine Learning
 
 ## 📌 Project Overview
 This project applies Machine Learning techniques to support medical diagnosis by classifying breast cancer cases as malignant or benign. Multiple classification algorithms are implemented and compared to identify the most effective model.
